@@ -1,0 +1,1 @@
+This project is a responsive clone of the Amazon homepage, built purely for educational and practice purposes. The goal was to replicate the layout, design, and functionality of Amazon's front page using HTML and CSS.
